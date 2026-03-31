@@ -25,7 +25,8 @@ The goal is to provide clear insights into engagement patterns and overall team 
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
+<img width="1366" height="726" alt="image" src="https://github.com/user-attachments/assets/3ced976a-ec43-40a1-9f33-f1e81b7a9df1" />
+
 
 ---
 
