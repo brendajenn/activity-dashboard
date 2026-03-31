@@ -1,5 +1,7 @@
 # 📊 Member Activity & Skill Dashboard (Power BI)
 
+A Power BI dashboard designed to analyze member engagement and skill distribution, helping identify activity patterns and performance gaps.
+
 ## 📌 Overview
 
 This project presents a Power BI dashboard analyzing member activity levels and skill distribution.
